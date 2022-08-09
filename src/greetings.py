@@ -3,5 +3,5 @@ def greeting(name: str) -> str:
 
 
 if __name__ == "__main__":
-    print(greeting(3))
+    # print(greeting(3))
     print(greeting('Alice'))
